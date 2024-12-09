@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#marginTopDiv  {
+   padding: 64px 0;
+}
+
+
+#mainDiv {
+    max-width: 1604px;
+    background: #FFB8D7;
+    width: 100%;
+    margin: 0 auto;
+    padding: 96px;
+}
+
+#childDiv {
+    background: #FFF;
+    padding: 94px 0;
+}
+
+#headerDiv {
+    width: 1216px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 32px;
+
+}
+
+#fisrtHead {
+    color: #002AFE;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+#secondHead {
+    color: #181D27;
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+#thirdHead {
+    color: #535862;
+    font-size: 20px;
+    margin-bottom: 56px;
+}
+
+#firstLineDiv {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#chineseImg{
+    vertical-align: middle;
+}
+
+#firstLineInfoDiv {
+    width: 540px;
+    text-align: left;
+    margin-left: 96px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#purpleHeadOne {
+    font-size: 14px;
+    color: #6941C6;
+    margin-bottom: 8px;
+}
+
+#blackHeadOne {
+    color: #181D27;
+    font-size: 24px;
+    margin-bottom: 8px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#arrowOne{
+    margin-left: 16px;
+    vertical-align: middle;
+}
+
+#pOne {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+#avatarOne{
+    vertical-align: middle;
+}
+
+#nameOne {
+    color: #181D27;
+    font-size: 14px;
+    
+}
+
+#yearOne {
+    color: #535862;
+    font-size: 14px;
+   
+}
+
+#nameDivOne {
+    display: inline-block;
+    width: 82px;
+    vertical-align: middle;
+    margin-left: 8px;
+}
+
+
+
+
