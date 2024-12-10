@@ -49,16 +49,20 @@
     margin-bottom: 56px;
 }
 
-#firstLineDiv {
+#firstLineDiv, #secondLineDiv,  #ThirdLineDiv {
     width: 1280px;
     margin: 0 auto;
 }
 
-#chineseImg{
+#secondLineDiv {
+    padding: 56px 0;
+}
+
+#chineseImg, #computerImg, #glassImg{
     vertical-align: middle;
 }
 
-#firstLineInfoDiv {
+#firstLineInfoDiv, #secondLineInfoDiv, #thirdLineInfoDiv {
     width: 540px;
     text-align: left;
     margin-left: 96px;
@@ -66,13 +70,13 @@
     vertical-align: middle;
 }
 
-#purpleHeadOne {
+#purpleHeadOne, #purpleHeadTwo, #purpleHeadThree {
     font-size: 14px;
     color: #6941C6;
     margin-bottom: 8px;
 }
 
-#blackHeadOne {
+#blackHeadOne, #blackHeadTwo, #blackHeadThree {
     color: #181D27;
     font-size: 24px;
     margin-bottom: 8px;
@@ -80,34 +84,34 @@
     display: inline-block;
 }
 
-#arrowOne{
+#arrowOne,#arrowTwo, #arrowThree{
     margin-left: 16px;
     vertical-align: middle;
 }
 
-#pOne {
+#pOne, #pTwo, #pThree {
     color: #535862;
     font-size: 16px;
     margin-bottom: 24px;
 }
 
-#avatarOne{
+#avatarOne, #avatarTwo, #avatarThree{
     vertical-align: middle;
 }
 
-#nameOne {
+#nameOne, #nameTwo, #nameThree {
     color: #181D27;
     font-size: 14px;
     
 }
 
-#yearOne {
+#yearOne, #yearTwo, #yearThree {
     color: #535862;
     font-size: 14px;
    
 }
 
-#nameDivOne {
+#nameDivOne, #nameDivTwo, #nameDivThree {
     display: inline-block;
     width: 82px;
     vertical-align: middle;
